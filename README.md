@@ -7,6 +7,5 @@ Here are some ideas to get you started:
  
 - 🌱 I’m currently learning Full Stack 
 - 📫 How to reach me: alimusayev044@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Real Madrid 
 
