@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Musayev</h1>
-<h3 align="center">I'm Frontend Developer !</h3>
+<h3 align="center">I'm a Frontend Developer !</h3>
 <img
         width="350"
         align="right"
