@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alimusayev044@gmail.com**
 
-- ⚡ Fun fact **I love Real Madrid 🤍**
+- ⚡ Fun fact **I am a big fan of Real Madrid 🤍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
